@@ -1,0 +1,7 @@
+step untuk mulai :
+1. cd ke folder yang ada docker compose (docker compose yml file saya letakkan di public)
+2. ketik : mkdir "$(pwd)"/typesense-data
+3. Lalu ketik : docker-compose up
+4. install client typesense menggunakan "npm install typesense"
+5. install supabase juga
+6. npm run dev
